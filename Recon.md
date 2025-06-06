@@ -1,0 +1,1 @@
+Reconnaissance is the first stage in Ethical Hacking, where the White Hat or Black Hat hacker is gathering data like open ports, services running, software versions, domain info, and network structure, attackers or security testers used this to spot potential Loopholes in a domain name system.
